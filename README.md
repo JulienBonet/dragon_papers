@@ -18,7 +18,7 @@
 
 ### > samples
 
-<p>WATCH THE DEMO : <a href="https://youtu.be/Zx0civmWGyU?feature=shared" >https://youtu.be/Zx0civmWGyU</a></p>
+<p>WATCH THE DEMO : <a href="https://youtu.be/Zx0civmWGyU?feature=shared" target="_blank">https://youtu.be/Zx0civmWGyU</a></p>
 
 <img src="https://julienbonet.fr/images/dragon_papers_illustr.jpg" alt="Dragon Papers"/>
 
