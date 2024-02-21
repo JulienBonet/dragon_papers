@@ -1,6 +1,6 @@
 # DRAGON PAPERS 🐉
 
-## ⚔️ Easily create your character sheet for Dungeons & Dragons RPG 🛡️
+## ⚔️ easily create your character sheet for Dungeons & Dragons RPG 🛡️
 
 ### > stack
 <p align="left">
