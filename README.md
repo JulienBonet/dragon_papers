@@ -1,6 +1,6 @@
-# DRAGON PAPERS
+# DRAGON PAPERS 🐉
 
-## Easily create your character sheet for Dungeons & Dragons RPG.
+## ⚔️ Easily create your character sheet for Dungeons & Dragons RPG 🛡️
 
 ### > stack
 <p align="left">
@@ -18,7 +18,7 @@
 
 ### > samples
 
-<p>WATCH THE DEMO : <a href="https://youtu.be/Zx0civmWGyU?feature=shared" >clic herer</a>
+<p>WATCH THE DEMO : <a href="https://youtu.be/Zx0civmWGyU?feature=shared" >https://youtu.be/Zx0civmWGyU</a></p>
 
 <img src="https://julienbonet.fr/images/dragon_papers_illustr.jpg" alt="Dragon Papers"/>
 
