@@ -20,5 +20,5 @@
 
 WATCH THE DEMO : <a href="https://youtu.be/Zx0civmWGyU?feature=shared" target="_blank">https://youtu.be/Zx0civmWGyU</a>
 
-<img src="https://julienbonet.fr/images/dragon_papers_illustr.jpg" alt="Dragon Papers"/>
-
+<img src="https://julienbonet.fr/images/for_git/git_dragon_papers.jpg" alt="Dragon Papers"/>
+<img src="https://julienbonet.fr/images/for_git/git_dragon_papers2.jpg" alt="Dragon Papers"/>
